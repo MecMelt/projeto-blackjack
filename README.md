@@ -65,4 +65,3 @@ O enunciado completo está no Sistema de Estudante, na sessão de Projetos https
 ![image](https://user-images.githubusercontent.com/71137294/227530610-a9172cf5-a346-49ec-ac76-e95b207f97b4.png)
 1.  Abra um novo Pull Request (PR) com a frase **PR para correção**. Caso não saiba como fazê-lo, assista a esse [vídeo](https://www.canva.com/design/DAFY4nS5W2c/t92uFMR61YtmA7bCwj2S1Q/watch).
 2.  Entregue o **link do PR** no [Formulário de entrega](https://forms.gle/GLrYczpdrwiirQWg7).
-
